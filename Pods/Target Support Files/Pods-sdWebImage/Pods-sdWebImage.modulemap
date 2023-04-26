@@ -1,0 +1,6 @@
+framework module Pods_sdWebImage {
+  umbrella header "Pods-sdWebImage-umbrella.h"
+
+  export *
+  module * { export * }
+}
